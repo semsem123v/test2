@@ -1,5 +1,5 @@
 ## Welcome to GitHub Pages
-<img src=x onerror=alert(1)>
+
 
 You can use the [editor on GitHub](javascript:alert(1);) to maintain and preview the content for your website in Markdown files.
 
