@@ -1,7 +1,7 @@
 ## Welcome to GitHub Pages
 <img src=x onerror=alert(1)>
 
-You can use the [editor on GitHub](https://github.com/semsem123s/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](javascript:alert(1);) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
