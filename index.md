@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+<img src=x onerror=alert(1)>
 
 You can use the [editor on GitHub](https://github.com/semsem123s/test2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
